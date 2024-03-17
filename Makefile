@@ -1,5 +1,4 @@
 
-#hello
 .PHONY: obj all
 
 PRJ_NAME := hello
