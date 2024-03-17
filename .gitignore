@@ -1,4 +1,5 @@
 
-/bin/*
-/obj/*
-/lib/shared/*
+bin/*
+obj/*
+lib/shared/*
+
